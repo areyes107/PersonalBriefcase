@@ -1,0 +1,23 @@
+{
+  "name": "personalbriefcase",
+  "version": "1.0.0",
+  "description": "Angel Reyes's Projects  Briefcase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areyes107/PersonalBriefcase.git"
+  },
+  "author": "Angel Reyes Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/areyes107/PersonalBriefcase/issues"
+  },
+  "homepage": "https://github.com/areyes107/PersonalBriefcase#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
